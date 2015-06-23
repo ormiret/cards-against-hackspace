@@ -235,7 +235,7 @@ Put some <blank> on it.
 Robots are going to make <blank> obsolete.
 Security? We've got that! We use <blank>
 The hardest problems in computer science are naming things, cache invalidation and <blank>
-The internet is for car memes and <blank>
+The internet is for cat memes and <blank>
 The Internet of Things will be controlled by <blank>
 The most stable part of our infrastructure?
 There was no good solution for <blank>, so we built our own.
