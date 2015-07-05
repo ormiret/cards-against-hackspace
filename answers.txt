@@ -22,7 +22,6 @@ fluffy white beard
 malibu
 Yokohama, the drama llama
 Yokohama
-Grumpy irl
 Emmanuel Goldstein
 Cory Doctorow
 Edward Snowden
@@ -40,16 +39,16 @@ Ediburgh Hacklab
 Becycle
 Aberduino
 Make Aberdeen
-the Biohackers
-the Lockpickers
-the Mindhackers
-the luma
+Biohackers
+Lockpickers
+Mindhackers
+luma
 the resistance
 the IRC cabal
-the wombles
+wombles
 the silent majority
-the crafts people
-the Non-Members
+crafts people
+Non-Members
 the NSA
 gold members
 Python
@@ -173,7 +172,6 @@ never gonna give you up
 cancer
 whaaaambulance
 sexual harassment panda
-overly attached girlfriend
 grumpy cat
 nyancat
 multipass
