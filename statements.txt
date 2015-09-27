@@ -40,7 +40,7 @@ I've got a great idea!  I just need some people to <blank>.
 To err is human, to <blank> is noobs.
 <blank> raged because of <blank>
 We're doing a bulk order for <blank> who's in?
-The <blank> doesn't work because Solexious' beard ate it.
+<blank> doesn't work because Solexious' beard ate it.
 I'm quitting the space because of <blank>
 I want to bring my <blank> to the space. Is this allowed?
 I'd like to donate <blank> to the space.
@@ -51,14 +51,14 @@ Why can't I use <blank> for <blank>?!
 I'm starting a subgroup for <blank> with <blank>.
 Does anyone have a <blank>? I need to <blank>.
 <blank> was added to the rules because of <blank>
-The <blank> thinks you're <blank>
-Which <blank> stole the <blank>.
-Who left the <blank> in <blank>
-Can I book the <blank> for <blank>.
+<blank> thinks you're <blank>
+Which <blank> stole <blank>.
+Who left <blank> in <blank>
+Can I book <blank> for <blank>.
 Why does nobody <blank> <blank>.
-Why can't I make <blank> in the <blank>.
+Why can't I make <blank> in <blank>.
 Stop trolling <blank> with your <blank>.
-Please stop <blank> with the <blank>.
+Please stop <blank> with <blank>.
 Are you absolutely sure <blank>?  It does mean <blank>
 <blank> is banned because of <blank>
 Can we get <blank> for <blank>.
@@ -66,13 +66,13 @@ Guys, I just started a pledge for <blank> <blank>.
 <blank> is bigger than <blank>.
 Step 1. <blank> 2. <blank> 3. ???? 4. Profit!
 <blank> + <blank> = <blank>
-It was <blank> in the <blank> with the <blank>.
+It was <blank> in <blank> with <blank>.
 <blank> is better than <blank> because <blank>.
 Yo dawg I herd you like <blank> so I <blank> your <blank> so you can <blank> while you <blank>.
 I accidentally left <blank> in the space
 I intentionally left <blank> in the space because <blank>
 Someone made a bomb out of <blank>
-I thought the hackspace would like my <blank> so I left it in the <blank>
+I thought the hackspace would like my <blank> so I left it in <blank>
 Who the fuck left <blank> in teh space?!
 We keep throwing <blank> away, but people just bring it back.
 <blank> opened the hackspace door.
@@ -108,7 +108,7 @@ We need more <blank> in the space.
 We need less <blank> in the space.
 The directors need to <blank>.
 Our data mining has revealed <blank>.
-Someone needs to take <blank> to the <blank>.
+Someone needs to take <blank> to <blank>.
 All the <blank> are broken.
 <blank> sent <blank> to the wrong mailing list. 
 <blank> doesn't know how to Internet.
@@ -125,17 +125,17 @@ As a general rule you should notice <blank>.
 Do not be <blank>.
 The worst hackerdeenbot ?insult is <blank>.
 <blank> had to be removed from ?insult because of <blank>.
-The <blank> has locked <blank> out of the <blank>.
+<blank> has locked <blank> out of <blank>.
 I have a small bit of <blank> I can throw at someone.
 Don't google <blank>, you go straight to <blank>.
 Do you not like big <blank>?!?
 Good news! We have a <blank>.
-Ignore the <blank>, they don't count in this <blank>.
+Ignore <blank>, they don't count in this <blank>.
 I can't find a <blank> TLD.
 He's not naked. He's covered in <blank>.
 WE ARE GOING TO NEED MORE <blank>.
 My favourite <blank> is <blank>. 
-The <blank> fell off the wall again.
+<blank> fell off the wall again.
 Before the election I must destroy all evidence of my involvement with <blank>.
 Little miss Muffet, Sat on a tuffet, Eating her curds and <blank>.
 You haven't truly lived until you've experienced <blank> and <blank> at the same time.
@@ -158,7 +158,7 @@ Instead of coal, Santa now gives the bad children <blank>.
 <blank>: good to the last drop.
 What gets better with age?
 To get on hackaday you need <blank> and <blank>.
-The <blank> is broken.
+<blank> is broken.
 We need a new <blank>.
 I'm starting a pledge for <blank>.
 Someone at the space tried to sell me <blank>
@@ -252,7 +252,7 @@ How do you escape a black hole?
 Lady Ada often spent the evening at home with her <blank>
 <blank> is the cause of our gender imbalance.
 <blank> is why the projector never works.
-It worked once <blank> was inserted in the <blank>
+It worked once <blank> was inserted in to <blank>
 Your gut microbiota can help you <blank>
 I don't think the LHC was expecting to discover <blank>
 The mysterious residue on the bench was <blank>
