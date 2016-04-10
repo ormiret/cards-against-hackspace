@@ -1,5 +1,5 @@
-STA_F= "/home/ormiret/webapps/ideas/htdocs/cards_against_hackspace/statements.txt"
-ANS_F= "/home/ormiret/webapps/ideas/htdocs/cards_against_hackspace/answers.txt"
+STA_F= "statements.txt"
+ANS_F= "answers.txt"
 import random
 
 def rand_line(filename):
