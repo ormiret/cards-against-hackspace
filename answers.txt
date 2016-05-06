@@ -762,3 +762,9 @@ a sharply worded assertion
 uncaught exceptions
 a sentient register allocator
 longjmp
+my robot army
+killer robots
+the robot arm
+jousting robots 
+robot cars
+robot trains
