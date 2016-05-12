@@ -235,6 +235,8 @@ Put some <blank> on it.
 Robots are going to make <blank> obsolete.
 Security? We've got that! We use <blank>
 The hardest problems in computer science are naming things, cache invalidation and <blank>
+The hardest problems in computer science are <blank>, cache invalidation and <blank>
+The hardest problems in computer science are naming things, <blank> and <blank>
 The internet is for cat memes and <blank>
 The Internet of Things will be controlled by <blank>
 The most stable part of our infrastructure?
@@ -285,3 +287,6 @@ I need help with me <blank>
 Where can I find <blank>
 My new startup is like uber for <blank>
 Do I need to PAT test <blank>?
+Why did someone make a gabba remix of <blank>?
+<blank> needs more gabba.
+  
