@@ -294,3 +294,8 @@ I think I have enough experience with <blank> to put it on my resume.
 You can take my <blank> from my cold dead hands.
 We shall fight them on the <blank>
 We shall fight them for the <blank>
+Let's throw <blank> out and use <blank> instead.
+Can we replace <blank> with <blank>?
+Let's throw email out and use <blank> instead.
+Let's throw pull requests out and use <blank> instead.
+Let's throw the mailing list out and use <blank> instead.
