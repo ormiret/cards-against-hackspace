@@ -299,3 +299,7 @@ Can we replace <blank> with <blank>?
 Let's throw email out and use <blank> instead.
 Let's throw pull requests out and use <blank> instead.
 Let's throw the mailing list out and use <blank> instead.
+<blank> turned into <blank>
+<blank> turned out to be <blank> all along.
+People are worried about <blank>
+We need a blockchain for <blank>
