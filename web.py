@@ -1,4 +1,6 @@
 from flask import Flask, render_template, jsonify, request, json, redirect
+from datetime import datetime
+
 app = Flask(__name__)
 
 import cah
@@ -22,3 +24,9 @@ def cah_topic(topic):
 @app.route("/cah.json")
 def cah_json():
     return jsonify({"wisdom":cah.fill_statement()})
+
+
+@app.route("/time.json")
+def cah_time():
+    n=datetime.utcnow()
+    return jsonify({'hours': n.hour, 'minutes':n.minute, 'seconds':n.second})
